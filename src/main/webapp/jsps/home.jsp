@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to the Kubernetes Presentation by Shubham Sharma</h1>
+<h1 align="center">Welcome to the Kubernetes Presentation by Shubh Sharma</h1>
 <h1 align="center"> Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.</h1>
 <hr>
 <br>
